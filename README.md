@@ -7,7 +7,7 @@ terdiri dari scraper yang melakukan scraping dan parsing terhadap website riau.g
 
 ## instalasi
 
- ### GNU/Linux Mint-Ubuntu
+### GNU/Linux Mint-Ubuntu
 - versi python: **Python2.7**
 - install modul yang diperlukan:
 
